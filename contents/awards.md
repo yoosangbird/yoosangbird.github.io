@@ -1,3 +1,2 @@
-- 校级一等奖学金, 2022.  
+- 数学建模校级一等奖奖, 2022.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
